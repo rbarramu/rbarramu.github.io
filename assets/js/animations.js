@@ -15,7 +15,7 @@ $(document).ready(function(){
     }
   });
 
-  var myWorks = [{"img": "assets/img/portfolio/houseStream", "link": "", "name": "HouseStream"},
+  var myWorks = [{"img": "assets/img/portfolio/houseStream.png", "link": " ", "name": "HouseStream"},
   {"img": "assets/img/portfolio/motionUser.png", "link": "https://itunes.apple.com/cl/app/motionuser/id1288757953?mt=8", "name": "MotionUser"},
   {"img": "assets/img/portfolio/motionCoach.png", "link": "https://itunes.apple.com/cl/app/motioncoach/id1315912433?mt=8", "name": "MotionCoach"},
   {"img": "assets/img/portfolio/motionAdmin.png", "link": "https://itunes.apple.com/cl/app/motionadmin/id1328112828?mt=8", "name": "MotionAdmin"},
